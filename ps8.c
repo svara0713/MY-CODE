@@ -1,4 +1,4 @@
-//write a c program to print square value of 2 integer.
+//write a c program to print square of an integer value.
 #include<stdio.h>
 int main()
 {
