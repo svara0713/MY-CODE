@@ -3,6 +3,6 @@
 int main()
 {
   int a,b,c;
-a=4,b=8,c=a+b;
-printf("addition %d*%d=%d",a,b,c);
+a=4,b=8,c=a*b;
+printf("multiplication %d*%d=%d",a,b,c);
 } 
