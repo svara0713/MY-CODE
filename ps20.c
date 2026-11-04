@@ -1,4 +1,4 @@
-//write a c program to print weekdays using elseif
+//write a c program to print weekdays using else if
 #include<stdio.h>
 int main()
 {
